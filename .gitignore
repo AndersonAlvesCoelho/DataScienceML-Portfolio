@@ -1,0 +1,18 @@
+.env
+kaggle.json
+projeto_final/datasets/*
+
+# Datasets
+*.zip
+datasets/
+data/
+processed/
+
+# Modelos
+*.keras
+*.h5
+*.pkl
+
+# Cache
+__pycache__/
+.ipynb_checkpoints/
