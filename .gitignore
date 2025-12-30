@@ -6,7 +6,6 @@ projeto_final/datasets/*
 *.zip
 datasets/
 data/
-processed/
 
 # Modelos
 *.keras
